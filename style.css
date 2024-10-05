@@ -1,0 +1,37 @@
+/* global css */
+
+* {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+/* External CSS */
+
+h3 {
+    color: goldenrod; /* Represents the color of a golden retriever */
+}
+
+/* element selector */
+
+h4 {
+    color: saddlebrown; /* Earthy color for dog themes */
+}
+
+/* class selector */
+
+.myclass {
+    color: lightcoral; /* A playful, friendly color for dog lovers */
+}
+
+/* id selector */
+
+#myid {
+    color: teal; /* Represents calmness like a well-trained dog */
+}
+
+/* group selector */
+
+h5,
+p {
+    color: darkslategray; /* A neutral color, like many dog breeds */
+}

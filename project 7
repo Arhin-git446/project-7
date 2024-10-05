@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title>Introduction to Dogs</title>
+        <!--external css-->
+        <link rel="stylesheet" href="style.css">
+        
+        <!-- Internal CSS -->
+        <style>
+            h2 {
+                color: green;
+            }
+        </style>
+    </head>
+    <body>
+        <hr>
+
+        <!-- Inline CSS -->
+        <h1 style="color: rgb(0, 179, 255);">DOG BREEDS EXAMPLE</h1>
+
+        <!-- Internal CSS -->
+        <h2>FAMOUS DOG BREEDS</h2>
+
+        <!-- External CSS -->
+        <h3>HOW TO CARE FOR DOGS</h3>
+
+        <hr>
+
+        <!-- Element selector example -->
+        <h4>History of dogs</h4>
+        <h4>Fun facts about dogs</h4>
+
+        <hr>
+
+        <!-- Class and ID selector example -->
+        <h2 class="myclass">TRAINING YOUR DOG</h2>
+        <h2 id="myid">DOG HEALTH AND WELLNESS</h2>
+        <h2 class="myclass">DOG BEHAVIOR EXPLAINED</h2>
+
+        <hr>
+
+        <!-- Group selector example -->
+        <h5>TOP 10 DOG NAMES</h5>
+        <p>WHY DOGS ARE GREAT PETS</p>
+
+        <hr>
+    </body>
+</html>
